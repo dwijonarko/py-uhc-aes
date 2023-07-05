@@ -1,6 +1,5 @@
 from utils.CharHelper import CharHelper
 from utils.UHCAESHelper import UHCAESHelper
-from base64 import b64decode, b64encode
 
 menu_options = {
 	1: 'Encryption',
